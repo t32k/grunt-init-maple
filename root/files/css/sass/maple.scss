@@ -1,0 +1,25 @@
+//-------------------------------------//
+//  Final output CSS file
+//-------------------------------------//
+
+/*
+ * Maple.css
+ *
+ * Copyright 2013 Koji Ishimoto
+ * Licensed under the MIT License
+ *
+ * Designed by @t32k
+ */
+ 
+//  Compass settings
+//-------------------------------------
+$experimental-support-for-opera: false;
+$experimental-support-for-mozilla: false;
+$experimental-support-for-microsoft: false;
+@import "compass";
+
+
+//  @import files
+//-------------------------------------
+@import "core";
+@import "modules";
