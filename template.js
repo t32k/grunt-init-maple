@@ -1,15 +1,15 @@
 /*
  * grunt-init-maple
- * https://gruntjs.com/
+ * https://github.com/t32k/grunt-init-maple
  *
- * Copyright (c) 2012 "Cowboy" Ben Alman, contributors
+ * Copyright (c) 2013 Koji Ishimoto
  * Licensed under the MIT license.
  */
 
 'use strict';
 
 // Basic template description.
-exports.description = 'Create a basic maple.';
+exports.description = 'Create a basic Maple project.';
 
 // Template-specific notes to be displayed before question prompts.
 exports.notes = 'This template tries to guess file and directory paths, but ' +
