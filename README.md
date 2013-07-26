@@ -1,6 +1,6 @@
 # grunt-init-maple
 
-> Create a basic maple project with [grunt-init][].
+> Create a basic [maple project](https://github.com/t32k/maple) with [grunt-init][].
 
 [grunt-init]: http://gruntjs.com/project-scaffolding
 
