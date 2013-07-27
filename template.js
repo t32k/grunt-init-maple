@@ -31,7 +31,7 @@ exports.template = function(grunt, init, done) {
 
     // Files to copy (and process).
     var files = init.filesToCopy(props);
-    var skips = [ '*.png', '*.jpg'];  
+    var skips = [ '*.png', '*.jpg', '*.ttf', '*.woff'];  
 
     // Actually copy (and process) files.
     init.copyAndProcess(files, props, {noProcess: skips});
